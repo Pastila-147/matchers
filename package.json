@@ -1,5 +1,5 @@
 {
-  "name": "@pastila-147/unit-testing",
+  "name": "@pastila-147/matchers",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -35,12 +35,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Pastila-147/unit-testing.git"
+    "url": "git+ssh://git@github.com/Pastila-147/matchers.git"
   },
   "bugs": {
-    "url": "https://github.com/Pastila-147/unit-testing/issues"
+    "url": "https://github.com/Pastila-147/matchers/issues"
   },
-  "homepage": "https://github.com/Pastila-147/unit-testing#readme",
+  "homepage": "https://github.com/Pastila-147/matchers#readme",
   "description": "",
   "dependencies": {
     "core-js": "^3.37.0"

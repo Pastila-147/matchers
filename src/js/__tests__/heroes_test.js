@@ -1,4 +1,4 @@
-import sortHeroes from "../game.js";
+import sortHeroes from "../heroesinfo";
 
 test('test sort array', () => {
     const example = [
